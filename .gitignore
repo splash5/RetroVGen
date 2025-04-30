@@ -1,0 +1,5 @@
+.DS_Store
+RetroVGen/atmel/Release
+RetroVGen/atmel/Debug
+RetroVGen/atmel/.vs
+RetroVGen/build
